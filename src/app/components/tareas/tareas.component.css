@@ -1,0 +1,11 @@
+input{
+  text-align: center;
+}
+
+.form-control-lg{
+  font-size: 1.5rem;
+}
+
+.cursor{
+  cursor: pointer;
+}
